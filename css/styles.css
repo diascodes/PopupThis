@@ -17,7 +17,7 @@
 	display: block!important;
 }
 .wp_themeSkin .mceIcon.mce_popupThis{
-	background:url(img/popupthis.png) no-repeat 2px -22px!important;
+	background:url('../img/popupthis.png') no-repeat 2px -22px!important;
 	float: left;
 }
 .wp_themeSkin .mceIcon.mce_popupThis:hover{
